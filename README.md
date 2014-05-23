@@ -56,9 +56,9 @@ beings.
 
 ## But this breaks Freedom 0!
 
-Yes, this license breaks Freedom 0: The freedom to run the program for any purpose.
+Yes, this license breaks freedom 0: The freedom to run the program for any purpose.
 
-It breaks them on purpose. In lots of countries freedom of speech does not include
+It breaks it on purpose. In lots of countries freedom of speech does not include
 hate speech. And I don't think that the freedom to run my code should also mean
 that it's totally okay to use software I create in a predator drone to kill people.
 
