@@ -1,4 +1,4 @@
-# Do-No-Harm License
+# Do-Not-Harm License
 
 This license is a modified [MIT license](http://opensource.org/licenses/MIT).
 It adds a clause that the software should not be used to harm humans or living
@@ -15,7 +15,7 @@ beings.
 > copies of the Software, and to permit persons to whom the Software is
 > furnished to do so, subject to the following conditions:
 >
-> * No human should be harmed while using this software
+> * No human should be harmed using this software
 >
 > * The above copyright notice and this permission notice shall be included in
 > all copies or substantial portions of the Software.
@@ -39,7 +39,7 @@ beings.
 > copies of the Software, and to permit persons to whom the Software is
 > furnished to do so, subject to the following conditions:
 >
-> * No living being should be harmed while using this software
+> * No living being should be harmed using this software
 >
 > * The above copyright notice and this permission notice shall be included in
 > all copies or substantial portions of the Software.
