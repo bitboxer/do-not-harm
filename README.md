@@ -1,12 +1,12 @@
-# Do no harm License
+# Do-No-Harm License
 
 This license is a modified [MIT license](http://opensource.org/licenses/MIT).
 It adds a clause that the software should not be used to harm humans or living
 beings.
 
-## Do not harm humans
+## Do-Not-Harm-Humans
 
-> Copyright (c) <year> <copyright holders>
+> Copyright (c) year copyright holders
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
@@ -28,9 +28,9 @@ beings.
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 > THE SOFTWARE.
 
-## Do not harm living beings
+## Do-Not-Harm-Living-Beings
 
-> Copyright (c) <year> <copyright holders>
+> Copyright (c) year copyright holders
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
@@ -82,10 +82,11 @@ humans. It's up to you what you want to use.
 
 ## But there is already a Do no Evil License!
 
-The [Do-No-Evil License](http://www.noevils.org/licenses/donoevil-1.0.html) just says do no evil.
-But evil is even more vague than the harm clause used here. It's up to you what you want to use.
+The [Do-No-Evil License](http://www.noevils.org/licenses/donoevil-1.0.html) is
+not specific enough for my taste. What is evil? I wanted to be more precise
+than that. But it's up to you what you want to use.
 
 ## I have questions about this!
 
-Feel free to open a [issue](https://github.com/bitboxer/donoharm/issues) here on Github!
+Feel free to open an [issue](https://github.com/bitboxer/donoharm/issues) here on Github!
 
