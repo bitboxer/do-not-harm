@@ -66,7 +66,7 @@ that it's totally okay to use software I create in a predator drone to kill peop
 
 No, it breaks Freedom 0. On purpose.
 
-## But you can't enforce the do no harm
+## But you can't enforce the "do not harm"
 
 It depends. But I want to make a stand and show where I draw the line what I
 think is okay.
