@@ -15,7 +15,7 @@ beings.
 > copies of the Software, and to permit persons to whom the Software is
 > furnished to do so, subject to the following conditions:
 >
-> * No human must be harmed purposefully using this software
+> * No human must purposefully be harmed using this software
 >
 > * The above copyright notice and this permission notice shall be included in
 > all copies or substantial portions of the Software.
@@ -39,7 +39,7 @@ beings.
 > copies of the Software, and to permit persons to whom the Software is
 > furnished to do so, subject to the following conditions:
 >
-> * No living being must be harmed purposefully using this software
+> * No living being must purposefully be harmed using this software
 >
 > * The above copyright notice and this permission notice shall be included in
 > all copies or substantial portions of the Software.
