@@ -83,8 +83,17 @@ humans. It's up to you what you want to use.
 ## But there is already a Do no Evil License!
 
 The [Do-No-Evil License](http://www.noevils.org/licenses/donoevil-1.0.html) is
-not specific enough for my taste. What is evil? I wanted to be more precise
-than that. But it's up to you what you want to use.
+not specific enough for my taste. What is evil? In some countries death penalty
+or torture is not considered evil. I wanted to be more precise because of that.
+But be aware that there are cases who could be considered "evil" and do not harm people.
+It's up to you what you want to use.
+
+## But what if harming one saves thousands?
+
+Yes, ethics is difficult. I am aware of that. There is a reason why something like
+the [Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem) exists.
+This license is here to start a discussion. To raise awareness about the problems
+we are facing right now. This question is part of that discussion.
 
 ## I have questions about this!
 
